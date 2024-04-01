@@ -51,8 +51,19 @@ plt.plot(x_train,lr.predict(x_train),color='red')
 ```
 
 ## Output:
-![image](https://github.com/karthick960/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215938/e32d6f60-e591-472b-85ba-ff6e0c51c07a)
-![image](https://github.com/karthick960/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215938/b5c3540d-1d35-46ad-a939-43a71ff3cf06)
+## 1)HEAD:
+![Screenshot 2024-04-01 135456](https://github.com/karthick960/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215938/a31cc930-e688-46a9-9d23-1d1667a689d9)
+## 2)GRAPH OF PLOTTED DATA:
+![Screenshot 2024-04-01 135551](https://github.com/karthick960/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215938/faaaaf6d-be7e-4798-b721-257fefe9cf8f)
+## 3)TRAINED DATA:
+![Screenshot 2024-04-01 135639](https://github.com/karthick960/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215938/c81b6539-f686-4c48-b2ca-8b5d78d565e0)
+## 4)LINE OF REGRESSION:
+![Screenshot 2024-04-01 135816](https://github.com/karthick960/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215938/2e4dd601-70a7-45c0-8ed7-8974394f01e0)
+## 5)COEFFICIENT AND INTERCEPT VALUES:
+![Screenshot 2024-04-01 135905](https://github.com/karthick960/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215938/35ec35e0-a3bc-4859-b3ae-af639b8556ca)
+
+
+
 
 
 ## Result:
